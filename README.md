@@ -22,6 +22,7 @@ Please add parts you are using successfully with **Teensy 3.1** to this list.
 - NXP TJA1050T/VM,118 on the same 5V supply as the Teensy. (1MBPS)
 - Microchip MCP2551 on 5V (reported at 500KBPS)
 - Linear LT1796 on 5V (not speedtested)
+- TI TCAN334G on 3.3 V (1 Mbps)
 
 ### Driver API
 **begin()**
